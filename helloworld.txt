@@ -1,3 +1,4 @@
 chinese 'haha'
 haha
 hello world
+2
